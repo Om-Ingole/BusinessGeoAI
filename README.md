@@ -2,6 +2,8 @@
 
 AI-powered location intelligence for business decisions. Enter any Indian address, pin code, landmark, or GPS coordinates to instantly generate a 360° site analysis — covering footfall signals, nearby businesses, transport access, air quality, crime, demographics, and AI recommendations. Powered by Google Maps Platform + OpenStreetMap, with a built-in Gemini-powered chat assistant.
 
+![BusinessGeo AI Dashboard](demo.png)
+
 ---
 
 ## Table of Contents
