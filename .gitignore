@@ -1,0 +1,38 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Local data and secrets
+.env
+*.db
+*.sqlite
+location_intel.db
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test artifacts
+.pytest_cache/
+
+# Claude Code session files
+.claude/
+CLAUDE.md
+
+# Misc
+Untitled
